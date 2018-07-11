@@ -7,4 +7,4 @@
 
 ![GitHub Logo](/images/logo.png)
 
-https://git-scm.com/docs/git-init - automatic!
+https://git-scm.com/docs/git-init
