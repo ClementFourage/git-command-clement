@@ -6,3 +6,5 @@
 * ```git pull``` Equivaut à effectuer un ```git fetch``` + ```git merge```
 
 ![GitHub Logo](/images/logo.png)
+
+Format: ![Alt Text](url)
