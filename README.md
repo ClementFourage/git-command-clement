@@ -7,4 +7,5 @@
 
 ![GitHub Logo](/images/logo.png)
 
-https://git-scm.com/docs/git-init
+Windows | Mac | Linux
+------- | --- | -----
