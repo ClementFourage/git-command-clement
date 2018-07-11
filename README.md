@@ -1,4 +1,4 @@
-# Quelques commandes utiles de *Git*
+# Quelques commandes utiles de **Git**
  
 * ```git log``` Permet d'obtenir la liste chronologique des commits créés, ainsi que les détails la concernant
 * ```git add``` Permet d'ajouter les modifications apportées au fichier
@@ -7,4 +7,4 @@
 
 ![GitHub Logo](/images/logo.png)
 
-Format: ![Alt Text](url)
+https://git-scm.com/docs/git-init - automatic!
